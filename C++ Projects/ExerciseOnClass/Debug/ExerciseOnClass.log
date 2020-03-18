@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\arvin\Desktop\Projects\C++ Projects\ExerciseOnClass\main.cpp(95,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\arvin\Desktop\Projects\C++ Projects\ExerciseOnClass\main.cpp(100,21): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\arvin\Desktop\Projects\C++ Projects\ExerciseOnClass\main.cpp(115,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\arvin\Desktop\Projects\C++ Projects\ExerciseOnClass\main.cpp(116,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\arvin\Desktop\Projects\C++ Projects\ExerciseOnClass\main.cpp(123,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\arvin\Desktop\Projects\C++ Projects\ExerciseOnClass\main.cpp(128,12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  ExerciseOnClass.vcxproj -> C:\Users\arvin\Desktop\Projects\C++ Projects\ExerciseOnClass\Debug\ExerciseOnClass.exe
